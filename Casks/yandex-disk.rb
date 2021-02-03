@@ -1,4 +1,4 @@
-cask "fixed-yandex-disk" do
+cask "yandex-disk" do
   version "3,30"
   sha256 "cf69a3ff787ad970715c95aceaeb0e10de4664a8c97e60c314f3735eb44338ec"
 
