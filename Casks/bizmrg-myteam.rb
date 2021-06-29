@@ -1,14 +1,14 @@
 cask "bizmrg-myteam" do
   # version "3,30"
-  # sha256 "f6502ba9dc4a11aee73118d7dd1d16ad033336afbb89333df041560807297d40"
+  sha256 "44e3bf418a51884fe1d5315ed6efbd4b19a839431078be80a642208f8783519f"
 
   url "https://hb.bizmrg.com/myteam-www/mail.ru/mac/x64/myteam.dmg"
-  # name "Yandex.Disk"
+  name "Myteam"
   # desc "Cloud storage"
   # homepage "https://disk.yandex.ru/"
   #
-  # auto_updates true
-  #
+  auto_updates true
+
   # app "Yandex.Disk.2.app"
   #
   # zap trash: [
