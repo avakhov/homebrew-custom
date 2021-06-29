@@ -9,8 +9,8 @@ cask "bizmrg-myteam" do
   #
   auto_updates true
 
-  # app "Yandex.Disk.2.app"
-  #
+  app "MyTeam.app"
+
   # zap trash: [
   #   "~/Library/Application Support/Yandex.Disk.2",
   #   "~/Library/Preferences/ru.yandex.desktop.disk.screenshots.plist",
